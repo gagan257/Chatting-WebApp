@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.25.1",
-    "@clerk/themes": "^1.7.6",
+    "@clerk/nextjs": "^4.25.2",
+    "@clerk/themes": "^1.7.7",
     "@t3-oss/env-nextjs": "^0.6.1",
     "@types/web-push": "^3.6.1",
     "eslint-config-prettier": "^9.0.0",
@@ -20,12 +20,12 @@
     "prettier-plugin-tailwindcss": "^0.4.1",
     "react": "latest",
     "react-dom": "latest",
-    "stream-chat": "^8.12.1",
+    "stream-chat": "^8.12.3",
     "stream-chat-react": "^10.12.0",
-    "svix": "^1.12.0",
+    "svix": "^1.13.0",
     "tailwind-merge": "^1.14.0",
     "web-push": "^3.6.6",
-    "zod": "^3.22.2"
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@types/node": "latest",
