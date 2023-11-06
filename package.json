@@ -16,6 +16,7 @@
     "eslint-config-prettier": "^9.0.0",
     "lucide-react": "^0.281.0",
     "next": "latest",
+    "nextjs-toploader": "^1.5.3",
     "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.4.1",
     "react": "latest",
